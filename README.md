@@ -1,4 +1,4 @@
-# malaysian-tweet-text-corpus
+# Malaysia Twitter Texts Corpus
 Collection of Scrapped Malaysian Twitter text data
 | Folder Name | Link |
 |-------------|------|
